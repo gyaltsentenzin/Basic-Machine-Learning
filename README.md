@@ -8,5 +8,5 @@
  
 ### Decision Tree after training the model
 <p align="center">
-    <img src="https://github.com/gyaltsentenzin/Basic-Machine-Learning/blob/main/DecisionTree.png" height="450" width="400" >
+    <img src="https://github.com/gyaltsentenzin/Basic-Machine-Learning/blob/main/DecisionTree.png" height="50" width="500" >
 </p>
