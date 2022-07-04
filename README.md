@@ -7,4 +7,6 @@
 - Thank you to the Youtube channel for taking me into the journey of learning ML
  
 ### Decision Tree after training the model
-<img src="https://github.com/gyaltsentenzin/Basic-Machine-Learning/blob/main/DecisionTree.png" height="80" width="80" >
+<p align="center">
+    <img src="https://github.com/gyaltsentenzin/Basic-Machine-Learning/blob/main/DecisionTree.png" height="200" width="200" >
+</p>
