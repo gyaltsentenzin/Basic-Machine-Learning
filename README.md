@@ -6,3 +6,5 @@
 - Used CSV file from Programming with Mosh Youtube channel
 - Thank you to the Youtube channel for taking me into the journey of learning ML
  
+### Decision Tree after training the model
+
